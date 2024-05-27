@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @VSP30C07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Seja bem-vindos ao meu perfil 
 
-<!---
-VSP30C07/VSP30C07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Eu me chamo Vitória Stefani Pinheiro 
+
+Estou aprendendo no [Alura](https://www.alura.com.br)
+Estou desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
+
+Você pode entrar em contato comigo: @vivi_znp ou (16) 994254382
+
+ ![]https://tenor.com/pt-BR/view/neyney-neymar-neymar-jr-neymar-da-silva-santos-júnior-footballer-gif-17799595
