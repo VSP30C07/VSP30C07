@@ -1,11 +1,14 @@
- Sejam todos muitos bem-vindos ao meu perfil 
+ Sejam todos muito bem-vindos ao meu perfil 
 
-Eu me chamo Vitória Stefani Pinheiro 
+my name is Vitória Stefani Pinheiro 
 
-Estou aprendendo no [Alura](https://www.alura.com.br)
-Estou desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
+Estou estudando no [Alura](https://www.alura.com.br)
+e desenvolvendo na linguagem JavaScript
 
-Você pode entrar em contato comigo: @vivi_znp ou (16) 994254382
+Utilizo esse espaço para a minha organização e compartilhamentos dos meus projetos desenvolvidos
 
- ![](https://tenor.com/pt-BR/view/neyney-neymar-neymar-jr-neymar-da-silva-santos-júnior-footballer-gif-17799595)
+Fiquem a vontade para entrar em contato comigo: @vivi_znp ou (16) 99425-4382
+
+ 
+
+![](https://media1.tenor.com/m/PKKCAakpBZIAAAAC/neyney-neymar.gif" alt="Neyney Neymar GIF - Neyney Neymar Neymar Jr GIFs"/>![image])
