@@ -1,4 +1,4 @@
- Seja bem-vindos ao meu perfil 
+ Sejam todos muitos bem-vindos ao meu perfil 
 
 Eu me chamo Vitória Stefani Pinheiro 
 
@@ -8,4 +8,4 @@ Utilizo esse espaço para a minha organização e compartilhamento dos meus proj
 
 Você pode entrar em contato comigo: @vivi_znp ou (16) 994254382
 
- ![]https://tenor.com/pt-BR/view/neyney-neymar-neymar-jr-neymar-da-silva-santos-júnior-footballer-gif-17799595
+ ![](https://tenor.com/pt-BR/view/neyney-neymar-neymar-jr-neymar-da-silva-santos-júnior-footballer-gif-17799595)
